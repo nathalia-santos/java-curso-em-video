@@ -2,8 +2,6 @@ package PrimeiroProjeto.OperadoresAritmeticos;
 
 import java.util.Scanner;
 
-import javax.sound.sampled.SourceDataLine;
-import javax.xml.transform.SourceLocator;
 
 public class calculadora_idade {
     public static void main(String[] args) {
